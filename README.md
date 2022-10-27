@@ -1,1 +1,1 @@
-# ead-resto-backend
+# PetPal Java Backend
